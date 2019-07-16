@@ -1,0 +1,14 @@
+{
+  "assetFileName": "SE_AtomicBomb.zip",
+  "fileRequirements": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "files": [
+    "AtomicBomb.dll",
+    "Manifest.json"
+  ],
+  "requiredPlugins": null
+}
